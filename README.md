@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                     MANOHAR | GITHUB PROFILE README                          -->
+<!--               MANOHAR REDDY GUNDA | GITHUB PROFILE README                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ───────────────────────── HERO BANNER ───────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=220&section=header&text=Hey%2C%20I'm%20Manohar%20👋&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Turning%20Ideas%20Into%20Scalable%20Digital%20Experiences&descAlignY=58&descSize=18&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=220&section=header&text=Hey%2C%20I'm%20Manohar%20Reddy%20%F0%9F%91%8B&fontSize=46&fontColor=00d4ff&fontAlignY=38&desc=Turning%20Ideas%20Into%20Scalable%20Digital%20Experiences&descAlignY=58&descSize=18&descColor=a0c4ff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=🚀+Full+Stack+Developer;⚡+MERN+Stack+Developer;🧩+DSA+Enthusiast+%7C+Java;🌐+Building+Real-World+Projects;💡+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%A7%A9+DSA+Enthusiast+%7C+Java;%F0%9F%8C%90+Building+Real-World+Projects;%F0%9F%92%A1+Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 </div>
@@ -23,11 +23,11 @@
 <!-- ───────────────────────── VISITOR + PROFILE VIEWS ───────────────────────── -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=manohar&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=manoharreddygundaa&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/manohar?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/manoharreddygundaa?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/manohar?style=for-the-badge&color=a855f7&labelColor=0d1117&label=TOTAL+STARS)
+![GitHub stars](https://img.shields.io/github/stars/manoharreddygundaa?style=for-the-badge&color=a855f7&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
 
@@ -46,13 +46,13 @@
 </div>
 
 ```typescript
-const manohar = {
-  🎓  education   : "B.Tech in Computer Science & Engineering",
-  🧠  roles       : ["Full Stack Developer", "MERN Stack Dev", "DSA Practitioner"],
-  💻  currently   : "Building scalable web applications & solving DSA problems",
-  🔭  exploring   : ["System Design", "Cloud Architecture", "Open Source"],
-  🎯  goal        : "Craft impactful products that solve real-world problems",
-  ⚡  fun_fact    : "I debug with console.log() and I'm proud of it 😄",
+const manoharReddyGunda = {
+  education  : "B.Tech in Computer Science & Engineering",
+  roles      : ["Full Stack Developer", "MERN Stack Dev", "DSA Practitioner"],
+  currently  : "Building scalable web applications & solving DSA problems",
+  exploring  : ["System Design", "Cloud Architecture", "Open Source"],
+  goal       : "Craft impactful products that solve real-world problems",
+  fun_fact   : "I debug with console.log() and I am proud of it",
 };
 ```
 
@@ -67,7 +67,7 @@ const manohar = {
 - 🧩 &nbsp; Sharpening problem-solving skills with **DSA in Java**
 - 🌐 &nbsp; Love architecting **scalable, high-performance** web applications
 - 🤝 &nbsp; Open to **collaborations** on interesting open-source projects
-- 📬 &nbsp; Reach me at **manoharcse@gmail.com**
+- 📬 &nbsp; Reach me at **gundamanoharreddy15@gmail.com**
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -176,8 +176,8 @@ HTML & CSS    █████████████████████░
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manohar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=manohar&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=a855f7&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manoharreddygundaa&theme=tokyonight" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=manoharreddygundaa&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=a855f7&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
@@ -185,7 +185,9 @@ HTML & CSS    █████████████████████░
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manoharreddygundaa&theme=tokyonight" alt="Repos Per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manoharreddygundaa&theme=tokyonight" alt="Most Commit Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manoharreddygundaa&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
@@ -199,7 +201,7 @@ HTML & CSS    █████████████████████░
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=manohar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=manoharreddygundaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
 
 </div>
 
@@ -213,7 +215,7 @@ HTML & CSS    █████████████████████░
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manohar&theme=react-dark&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area=true&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manoharreddygundaa&theme=react-dark&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/manoharreddygundaa)
 
 </div>
 
@@ -233,11 +235,11 @@ HTML & CSS    █████████████████████░
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Manohar-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/manohar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gundamanoharreddy-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gundamanoharreddy/)
 &nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Manohar-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/manohar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Manohar_Reddy-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/manoharreddygundaa)
 &nbsp;&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Manohar-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manohar)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Manohar_Reddy-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manoharreddygundaa)
 
 </div>
 
@@ -245,7 +247,7 @@ HTML & CSS    █████████████████████░
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/manohar?theme=dark&font=JetBrains+Mono&ext=activity&border=0&radius=12" alt="LeetCode Stats" width="500"/>
+<img src="https://leetcard.jacoblin.cool/gundamanoharreddy?theme=dark&font=JetBrains+Mono&ext=activity&border=0&radius=12" alt="LeetCode Stats" width="500"/>
 
 </div>
 
@@ -277,87 +279,57 @@ HTML & CSS    █████████████████████░
 
 <div align="center">
   <h2>🚀 &nbsp; Featured Projects</h2>
-  <p><i>A showcase of things I've built — from concept to deployment</i></p>
+  <p><i>A showcase of things I have built — from concept to deployment</i></p>
 </div>
 
 <br/>
 
-<!-- PROJECT 1 -->
-<table align="center" width="90%" border="0">
+<!-- ══════════ PROJECT 1 ══════════ -->
+<table align="center" width="92%" border="0">
 <tr>
 <td>
 
-### 💊 &nbsp; Medicine Delivery Platform
+<div align="center">
 
-> A full-stack e-commerce platform for ordering medicines online with real-time tracking, prescription verification, and secure checkout.
+### 🤝 &nbsp; Peer-to-Peer Learning Platform
+
+</div>
+
+> A collaborative EdTech platform where students and mentors connect directly — enabling real-time sessions, skill sharing, course creation, and progress tracking in one unified space.
+
+<br/>
 
 **Tech Stack:**
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-
-**Key Features:** 🛒 Cart & Checkout &nbsp;|&nbsp; 📋 Prescription Upload &nbsp;|&nbsp; 🚚 Order Tracking &nbsp;|&nbsp; 🔐 Secure Auth
-
-[![Demo](https://img.shields.io/badge/🔗_Live_Demo-00d4ff?style=for-the-badge)](https://medicine-delivery.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_View_Code-a855f7?style=for-the-badge&logo=github)](https://github.com/manohar/medicine-delivery)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 2 -->
-<table align="center" width="90%" border="0">
-<tr>
-<td>
-
-### 🤝 &nbsp; Peer-to-Peer Lending Platform
-
-> A fintech platform connecting borrowers and lenders directly — with risk scoring, loan management, EMI calculator, and secure transactions.
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-
-**Key Features:** 💰 Loan Requests &nbsp;|&nbsp; 📊 Risk Scoring &nbsp;|&nbsp; 🧮 EMI Calculator &nbsp;|&nbsp; 📈 Dashboard Analytics
-
-[![Demo](https://img.shields.io/badge/🔗_Live_Demo-00d4ff?style=for-the-badge)](https://p2p-lending.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_View_Code-a855f7?style=for-the-badge&logo=github)](https://github.com/manohar/p2p-lending)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 3 -->
-<table align="center" width="90%" border="0">
-<tr>
-<td>
-
-### 🌐 &nbsp; Portfolio Website
-
-> A modern, animated developer portfolio showcasing projects, skills, and contact information with smooth transitions and dark aesthetics.
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-%23000000.svg?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=flat-square&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
-**Key Features:** ✨ Animated UI &nbsp;|&nbsp; 📱 Fully Responsive &nbsp;|&nbsp; 🌙 Dark Mode &nbsp;|&nbsp; 📩 Contact Form
+<br/>
 
-[![Demo](https://img.shields.io/badge/🔗_Live_Demo-00d4ff?style=for-the-badge)](https://manohar.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_View_Code-a855f7?style=for-the-badge&logo=github)](https://github.com/manohar/portfolio)
+**Key Features:**
+
+| Feature | Description |
+|---|---|
+| 🎓 Mentor Matching | Smart algorithm to connect learners with the right mentors |
+| 💬 Real-time Chat | Instant messaging & live session rooms via Socket.io |
+| 📚 Course Builder | Mentors can create, publish, and manage learning modules |
+| 📊 Progress Tracker | Visual dashboards to track learning milestones |
+| 🔐 Secure Auth | JWT-based role authentication (Student / Mentor / Admin) |
+
+<br/>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00d4ff?style=for-the-badge)](https://p2p-learning.vercel.app)
+&nbsp;&nbsp;
+[![View Code](https://img.shields.io/badge/📁%20View%20Code-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoharreddygundaa/peer-to-peer-learning)
+
+</div>
 
 </td>
 </tr>
@@ -365,52 +337,52 @@ HTML & CSS    █████████████████████░
 
 <br/>
 
-<!-- PROJECT 4 -->
-<table align="center" width="90%" border="0">
+<!-- ══════════ PROJECT 2 ══════════ -->
+<table align="center" width="92%" border="0">
 <tr>
 <td>
 
-### ☕ &nbsp; DSA in Java Repository
+<div align="center">
 
-> A comprehensive, well-documented collection of Data Structures & Algorithms implemented in Java — from basics to advanced topics, interview-ready.
+### 💰 &nbsp; Budget Tracker AI
 
-**Tech Stack:**
+</div>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-0d1117?style=flat-square&logo=buffer&logoColor=00d4ff)
-![Algorithms](https://img.shields.io/badge/Algorithms-0d1117?style=flat-square&logo=lightning&logoColor=a855f7)
-
-**Topics Covered:** 🌲 Trees &nbsp;|&nbsp; 🔗 LinkedLists &nbsp;|&nbsp; 📦 Stacks/Queues &nbsp;|&nbsp; 🕸️ Graphs &nbsp;|&nbsp; 🎯 DP &nbsp;|&nbsp; 🔍 Sorting & Searching
-
-[![Repo](https://img.shields.io/badge/📁_View_Repository-a855f7?style=for-the-badge&logo=github)](https://github.com/manohar/dsa-java)
-![Stars](https://img.shields.io/github/stars/manohar/dsa-java?style=for-the-badge&color=00d4ff&labelColor=0d1117)
-
-</td>
-</tr>
-</table>
+> An AI-powered personal finance management app that tracks income and expenses, generates smart spending insights, predicts future budgets, and helps users achieve financial goals with a sleek modern interface.
 
 <br/>
-
-<!-- PROJECT 5 -->
-<table align="center" width="90%" border="0">
-<tr>
-<td>
-
-### 🤖 &nbsp; Resume ATS Checker
-
-> An AI-powered tool that analyzes resumes against job descriptions, provides ATS compatibility scores, and suggests keyword improvements to maximize interview chances.
 
 **Tech Stack:**
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-%2322c55e.svg?style=flat-square&logo=chartdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Key Features:** 📄 PDF Parsing &nbsp;|&nbsp; 🎯 ATS Score &nbsp;|&nbsp; 🔍 Keyword Gap Analysis &nbsp;|&nbsp; 💡 AI Suggestions
+<br/>
 
-[![Demo](https://img.shields.io/badge/🔗_Live_Demo-00d4ff?style=for-the-badge)](https://resume-ats.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_View_Code-a855f7?style=for-the-badge&logo=github)](https://github.com/manohar/resume-ats-checker)
+**Key Features:**
+
+| Feature | Description |
+|---|---|
+| 🤖 AI Insights | GPT-powered spending analysis & personalised budget tips |
+| 📊 Visual Dashboard | Interactive charts — expense breakdown, trends & forecasts |
+| 💳 Transaction Logs | Add, categorise & manage income/expenses in real time |
+| 🎯 Goal Setting | Set saving goals and track progress with visual indicators |
+| 📅 Monthly Reports | Auto-generated PDF summaries for each budget period |
+
+<br/>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00d4ff?style=for-the-badge)](https://budget-tracker-ai.vercel.app)
+&nbsp;&nbsp;
+[![View Code](https://img.shields.io/badge/📁%20View%20Code-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoharreddygundaa/budget-tracker-ai)
+
+</div>
 
 </td>
 </tr>
@@ -446,71 +418,24 @@ HTML & CSS    █████████████████████░
 <!-- ═══════════════════════ SEPARATOR ═══════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<!-- ───────────────────────── CONTRIBUTION SNAKE ───────────────────────── -->
-
-<div align="center">
-  <h2>🐍 &nbsp; Contribution Snake</h2>
-  <p><i>Watch my contributions come alive</i></p>
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manohar/manohar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manohar/manohar/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manohar/manohar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-> 💡 **Setup:** To enable the snake animation, add this to `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
-<br/>
-
-<!-- ═══════════════════════ SEPARATOR ═══════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
 <!-- ───────────────────────── CONNECT WITH ME ───────────────────────── -->
 
 <div align="center">
   <h2>🌐 &nbsp; Let's Connect</h2>
-  <p><i>I'm always open to exciting opportunities, collaborations, or just a good tech chat!</i></p>
+  <p><i>Always open to exciting opportunities, collaborations, or just a good tech chat!</i></p>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manohar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manohar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunda%20Manohar%20Reddy-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunda-manoharreddy-00409027a/)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-manoharcse%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharcse@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-gundamanoharreddy15-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundamanoharreddy15@gmail.com)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@manohar-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manohar)
+[![GitHub](https://img.shields.io/badge/GitHub-@manoharreddygundaa-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoharreddygundaa)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-gundamanoharreddy-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gundamanoharreddy/)
 
 </div>
 
@@ -519,12 +444,13 @@ HTML & CSS    █████████████████████░
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════╗
-║   📍 Location   : India                          ║
-║   💼 Status     : Open to Opportunities          ║
-║   📧 Email      : manoharcse@gmail.com           ║
-║   ⚡ Response   : Usually within 24 hours        ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║   📍 Location   : India                              ║
+║   💼 Status     : Open to Opportunities              ║
+║   📧 Email      : gundamanoharreddy15@gmail.com      ║
+║   🔗 GitHub     : github.com/manoharreddygundaa      ║
+║   ⚡ Response   : Usually within 24 hours            ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -533,13 +459,13 @@ HTML & CSS    █████████████████████░
 
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f3460,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20if%20you%20like%20my%20work&fontSize=16&fontColor=a0c4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f3460,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20Star%20if%20you%20like%20my%20work&fontSize=16&fontColor=a0c4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-*Crafted with ❤️ and ☕ by **Manohar** — Building tomorrow's web, one commit at a time.*
+*Crafted with love and coffee by **Manohar Reddy Gunda** — Building tomorrow's web, one commit at a time.*
 
 </div>
 

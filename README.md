@@ -285,49 +285,51 @@ HTML & CSS    █████████████████████░
 <br/>
 
 <!-- ══════════ PROJECT 1 ══════════ -->
+
 <table align="center" width="92%" border="0">
 <tr>
 <td>
 
 <div align="center">
 
-### 🤝 &nbsp; Peer-to-Peer Learning Platform
+### 🤝   Circle Funds
 
 </div>
 
-> A collaborative EdTech platform where students and mentors connect directly — enabling real-time sessions, skill sharing, course creation, and progress tracking in one unified space.
+> A peer-to-peer lending platform that connects borrowers and lenders through a secure and user-friendly interface. Users can request loans, manage lending activities, track transaction history, and monitor financial records in real time.
 
 <br/>
 
 **Tech Stack:**
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-%23000000.svg?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square\&logo=mongodb\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-%23000000.svg?style=flat-square\&logo=JSON%20web%20tokens\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square\&logo=bootstrap\&logoColor=white)
 
 <br/>
 
 **Key Features:**
 
-| Feature | Description |
-|---|---|
-| 🎓 Mentor Matching | Smart algorithm to connect learners with the right mentors |
-| 💬 Real-time Chat | Instant messaging & live session rooms via Socket.io |
-| 📚 Course Builder | Mentors can create, publish, and manage learning modules |
-| 📊 Progress Tracker | Visual dashboards to track learning milestones |
-| 🔐 Secure Auth | JWT-based role authentication (Student / Mentor / Admin) |
+| Feature                  | Description                                |
+| ------------------------ | ------------------------------------------ |
+| 💰 Borrow & Lend         | Users can request and provide loans easily |
+| 🔐 Secure Authentication | JWT-based user authentication              |
+| 📊 Dashboard             | Track borrowing and lending activities     |
+| 📜 Transaction History   | Complete record of transactions            |
+| 👤 Profile Management    | Manage personal and account details        |
 
 <br/>
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00d4ff?style=for-the-badge)](https://p2p-learning.vercel.app)
-&nbsp;&nbsp;
-[![View Code](https://img.shields.io/badge/📁%20View%20Code-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoharreddygundaa/peer-to-peer-learning)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00d4ff?style=for-the-badge)](https://circle-funds-3.onrender.com/)
+
+  
+
+[![View Code](https://img.shields.io/badge/📁%20View%20Code-a855f7?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/manoharreddygundaa/circle-funds)
 
 </div>
 
@@ -338,49 +340,52 @@ HTML & CSS    █████████████████████░
 <br/>
 
 <!-- ══════════ PROJECT 2 ══════════ -->
+
 <table align="center" width="92%" border="0">
 <tr>
 <td>
 
 <div align="center">
 
-### 💰 &nbsp; Budget Tracker AI
+### 💰   Budget Tracker AI Prediction
 
 </div>
 
-> An AI-powered personal finance management app that tracks income and expenses, generates smart spending insights, predicts future budgets, and helps users achieve financial goals with a sleek modern interface.
+> An AI-powered personal finance management application that helps users track income and expenses, visualize spending patterns, generate intelligent insights, and predict future budget trends for better financial planning.
 
 <br/>
 
 **Tech Stack:**
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-%2322c55e.svg?style=flat-square&logo=chartdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square\&logo=mongodb\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-%23412991.svg?style=flat-square\&logo=openai\&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-%2322c55e.svg?style=flat-square\&logo=chartdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square\&logo=tailwind-css\&logoColor=white)
 
 <br/>
 
 **Key Features:**
 
-| Feature | Description |
-|---|---|
-| 🤖 AI Insights | GPT-powered spending analysis & personalised budget tips |
-| 📊 Visual Dashboard | Interactive charts — expense breakdown, trends & forecasts |
-| 💳 Transaction Logs | Add, categorise & manage income/expenses in real time |
-| 🎯 Goal Setting | Set saving goals and track progress with visual indicators |
-| 📅 Monthly Reports | Auto-generated PDF summaries for each budget period |
+| Feature                 | Description                                      |
+| ----------------------- | ------------------------------------------------ |
+| 🤖 AI Insights          | AI-powered spending analysis and recommendations |
+| 📊 Expense Analytics    | Interactive charts and financial reports         |
+| 💳 Transaction Tracking | Manage income and expenses efficiently           |
+| 🎯 Budget Planning      | Create and monitor financial goals               |
+| 📈 Future Predictions   | Forecast future spending patterns                |
 
 <br/>
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00d4ff?style=for-the-badge)](https://budget-tracker-ai.vercel.app)
-&nbsp;&nbsp;
-[![View Code](https://img.shields.io/badge/📁%20View%20Code-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoharreddygundaa/budget-tracker-ai)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00d4ff?style=for-the-badge)](https://budgettracker-ai-prediction-self.vercel.app/)
+
+  
+
+[![View Code](https://img.shields.io/badge/📁%20View%20Code-a855f7?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/manoharreddygundaa/budgettracker_ai_prediction)
 
 </div>
 

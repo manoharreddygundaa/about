@@ -25,9 +25,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manoharreddygundaa&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/manoharreddygundaa?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/manoharreddygundaa?style=for-the-badge&color=a855f7&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
 
